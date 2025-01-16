@@ -23,7 +23,7 @@ const labelsSecond = [
 
 const labelsThird = [
     "OpenAI",
-    "Groq",
+    "ChatGPT",
     
     
 ];
