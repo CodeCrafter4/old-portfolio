@@ -7,24 +7,24 @@ import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
     "React",
-    "TypeScript",
+    "NextJs",
     "JavaScript",
-    "HTML5",
-    "CSS3",
+   
   
 ];
 
 const labelsSecond = [
     "Git",
     "GitHub Actions",
-    "Azure",
+    "Hostinger",
+    
     
 ];
 
 const labelsThird = [
     "OpenAI",
     "Groq",
-    "LangChain",
+    
     
 ];
 
@@ -53,10 +53,10 @@ function Expertise() {
 
             <div className="skill">
               <FontAwesomeIcon icon={faDocker} size="3x" />
-              <h3>DevOps & Automation</h3>
+              <h3>Automation</h3>
               <p>
-                Once the application is built, I help clients set up DevOps
-                testing, CI/CD pipelines, and deployment automation to support
+                Once the application is built, I help clients in
+                testing, and deployment automation to support
                 the successful Go-Live.
               </p>
               <div className="flex-chips">
@@ -69,10 +69,10 @@ function Expertise() {
 
             <div className="skill">
               <FontAwesomeIcon icon={faJava} size="3x" />
-              <h3>GenAI & LLM</h3>
+              <h3>GenAI</h3>
               <p>
                 Stay relevant in the market by leveraging the latest AI models
-                in your projects. I have professional experience building
+                in your projects. I have some experience building
                 enterprise grade GenAI-enabled solutions to empower intelligent
                 decision making.
               </p>

@@ -14,43 +14,51 @@ function Timeline() {
         <VerticalTimeline>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
-            contentArrowStyle={{ borderRight: '7px solid  white' }}
+            contentStyle={{ background: "white", color: "rgb(39, 40, 34)" }}
+            contentArrowStyle={{ borderRight: "7px solid  white" }}
             date="2024 - present"
-            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Technology Consultant</h3>
-            
+            <h3 className="vertical-timeline-element-title">
+              Frontend Developer Intern
+            </h3>
+
             <p>
-              Full-stack Web Development, GenAI/LLM, Project Management, Business Development
+              Assisted in the development of a web-based platform using
+              React.js, enhancing interactivity.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             date="2023 - 2023"
-            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Full Stack Developer</h3>
-            
+            <h3 className="vertical-timeline-element-title">
+              Mobile App Dev - MIT Tech
+            </h3>
+
             <p>
-              Frontend Development, Backend Development, User Experience, Team Leading
+              Designed and developed mobile app for Android platforms using
+              Flutter.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             date="2022 - 2023"
-            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Staff Developer Intern</h3>
-            
+            <h3 className="vertical-timeline-element-title">
+              Freelance App Dev Project
+            </h3>
+
             <p>
-              Full-stack Development, API Development, User Experience
+              Led the dev of a mobile app for a client, from initial concept to
+              deployment.
             </p>
           </VerticalTimelineElement>
-          
         </VerticalTimeline>
       </div>
     </div>

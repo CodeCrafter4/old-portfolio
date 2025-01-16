@@ -9,9 +9,7 @@ function Main() {
   return (
     <div className="container">
       <div className="about-section">
-        <div className="image-wrapper">
-          <img src={profile} alt="avatar" />
-        </div>
+        
         <div className="content">
           <div className="social_icons">
             <a
@@ -29,8 +27,8 @@ function Main() {
               <LinkedInIcon />
             </a>
           </div>
-          <h1>Muhammed </h1>
-          <p>Full Stack Developer</p>
+          <h1>Muhammed Abdella</h1>
+          <p>Full Stack Web Developer</p>
 
           <div className="mobile_social_icons">
             <a

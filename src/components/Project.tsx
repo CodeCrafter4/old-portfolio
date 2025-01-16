@@ -1,11 +1,11 @@
 import React from "react";
 import mock01 from '../assets/images/mock01.png';
-import mock02 from '../assets/images/mock02.png';
-import mock03 from '../assets/images/mock03.png';
+import mock02 from '../assets/images/gym.png';
+import mock03 from '../assets/images/br.png';
 import mock04 from '../assets/images/mock04.png';
 import mock05 from '../assets/images/mock05.png';
-import mock06 from '../assets/images/mock06.png';
-import mock07 from '../assets/images/mock07.png';
+import mock06 from '../assets/images/bl.png';
+import mock07 from '../assets/images/ec.png';
 import mock08 from '../assets/images/mock08.png';
 import mock09 from '../assets/images/mock09.png';
 import mock10 from '../assets/images/mock10.png';
@@ -18,42 +18,49 @@ function Project() {
         <div className="projects-grid">
           <div className="project">
             <img src={mock07} className="zoom" alt="thumbnail" width="100%" />
-            <h2>Atukar: Simplified Cart System</h2>
+            <h2>E-commerce Website Using React JS</h2>
             <p>
-              A fully functional cart system developed using HTML, CSS, and
-              JavaScript. It allows users to add, update, and manage items in
-              their cart with a clean, responsive interface.
+              E-commerce Website Using React JS | MERN Stack eCommerce Project
+              with Stripe.
             </p>
+            <h6>
+              <a href="https://ecommerce-frontend-gamma-coral.vercel.app/">
+                Go Live
+              </a>
+            </h6>
           </div>
 
           <div className="project">
             <img src={mock06} className="zoom" alt="thumbnail" width="100%" />
-            <h2>Portfolio Website</h2>
+            <h2>Blog App</h2>
             <p>
-              A modern portfolio website designed to showcase my projects and
-              skills. Built from scratch using React.js and hosted on a global
-              domain.
+              Full Stack Blog App Using Next JS & MongoDB | Backend, Frontend
+              and Admin Project.
             </p>
+            <h6>
+              <a href="https://blogger-eight-rosy.vercel.app/">Go Live</a>
+            </h6>
           </div>
 
           <div className="project">
             <img src={mock03} className="zoom" alt="thumbnail" width="100%" />
-            <h2>E-commerce Platform</h2>
+            <h2>AI BG Removal SaaS App</h2>
             <p>
-              Developed a fully functional e-commerce website using the MERN
-              stack. Features include product listings, user authentication, and
-              secure payment integration.
+              AI BG Removal SaaS App using React JS, Clerk | Full Stack AI React
+              Project.
             </p>
+            <h6>
+              <a href="https://background-removal-tjpt.vercel.app/">Go Live</a>
+            </h6>
           </div>
 
           <div className="project">
             <img src={mock02} className="zoom" alt="thumbnail" width="100%" />
-            <h2>Qur'an Recitation Tracker</h2>
-            <p>
-              An interactive platform to help users track their progress in
-              Qur'an recitation. Built using React.js and MongoDB to manage user
-              data efficiently.
-            </p>
+            <h2>Fitness Exercises App</h2>
+            <p>Modern React 18 Fitness Exercises App With APIs | RapidAPI.</p>
+            <h6>
+              <a href="www.google.com">Go Live</a>
+            </h6>
           </div>
         </div>
       </div>
