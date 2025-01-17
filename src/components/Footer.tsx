@@ -22,7 +22,7 @@ function Footer() {
           <LinkedInIcon />
         </a>
       </div>
-      <p>Copyright ©2024 </p>
+      <p>Copyright ©2024 Muhammed Abdella </p>
     </footer>
   );
 }
