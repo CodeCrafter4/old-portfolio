@@ -19,7 +19,7 @@ function Project() {
           </p>
           <h6>
             <a href="https://ecommerce-frontend-gamma-coral.vercel.app/">
-              Go Live
+              Check Live Site
             </a>
           </h6>
         </div>
@@ -32,7 +32,7 @@ function Project() {
             Admin Project.
           </p>
           <h6>
-            <a href="https://blogger-eight-rosy.vercel.app/">Go Live</a>
+            <a href="https://blogger-eight-rosy.vercel.app/">Check Live Site</a>
           </h6>
         </div>
 
@@ -44,7 +44,9 @@ function Project() {
             Project.
           </p>
           <h6>
-            <a href="https://background-removal-tjpt.vercel.app/">Go Live</a>
+            <a href="https://background-removal-tjpt.vercel.app/">
+              Check Live Site
+            </a>
           </h6>
         </div>
 
@@ -53,7 +55,7 @@ function Project() {
           <h2>Fitness Exercises App</h2>
           <p>Modern React 18 Fitness Exercises App With APIs | RapidAPI.</p>
           <h6>
-            <a href="www.google.com">Go Live</a>
+            <a href="https://golds-gym-e.vercel.app/">Check Live Site</a>
           </h6>
         </div>
       </div>
